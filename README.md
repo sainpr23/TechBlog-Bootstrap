@@ -16,7 +16,6 @@ A responsive blog layout created using Bootstrap 5. This project features a mode
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
 - Bootstrap 5
 
 
